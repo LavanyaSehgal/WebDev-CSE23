@@ -1,0 +1,1 @@
+f.writeFileSync("out.txt","hello to all,i am lavanya");
