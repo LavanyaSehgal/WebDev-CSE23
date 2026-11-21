@@ -1,4 +1,4 @@
-function greet(name,callback){     //callback function
+function greet(name,callback){     //callback funct
     console.log("Hello"+name);              
     callback();
 }
